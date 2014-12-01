@@ -1,6 +1,7 @@
 package sanityTests;
 //Comment added from Windows
 //Comment added from Master Branch
+//Comment added from Feature2 Branch
 public class Elements {
 
 	// All Categories xpath
